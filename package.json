@@ -1,0 +1,12 @@
+{
+  "name": "WebCodeAV",
+  "version": "1.0.0",
+  "description": "Webcodecs 音视频编码解码工具库",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
